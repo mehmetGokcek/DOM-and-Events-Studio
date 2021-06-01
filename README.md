@@ -1,4 +1,4 @@
-# DOM-and-Events-Studio
+# Flight Simulator (Practicing DOM and Events)
 
 # The Requirements
 Use the window load event to ensure all elements have loaded before attaching event handlers.
